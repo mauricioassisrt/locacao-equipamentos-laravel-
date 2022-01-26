@@ -20,9 +20,9 @@
         <!-- API -->
         {{--  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
         <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCTHKMP8ypejlRu9HpiXDhsa1eZ6VgMUfU&callback=initMap"
+        <script src="https://maps.googleapis.com/maps/api/js?key=CHAVE"
         async defer></script>  --}}
-       <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyASXDsqr_Ar4AARZJ94K4L49fmMoMG8XkE"></script>
+       <script src="https://maps.googleapis.com/maps/api/CHAVE"></script>
 
         <!-- Tell the browser to be responsive to screen width -->
         <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
